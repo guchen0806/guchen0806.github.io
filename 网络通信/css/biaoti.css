@@ -57,8 +57,22 @@ padding:0;}
 	margin-bottom: 0%;
 	
 }
-.fixed {
-position: fixed;
-top: 0px;
-left:0px;
+
+
+
+       .container {
+  display: grid;
+  justify-content: center;
 }
+
+.full-width {
+  grid-column: 1 / -1;
+}
+
+
+    
+
+
+    
+
+    
